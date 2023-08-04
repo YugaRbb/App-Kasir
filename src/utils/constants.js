@@ -1,1 +1,1 @@
-export const API_URL= "https://my-json-server.typicode.com/YugaRbb/db.json"
+export const API_URL= "https://my-json-server.typicode.com/YugaRbb/db.json/"
